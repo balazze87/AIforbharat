@@ -1,1 +1,2 @@
-![Building an Image Editing serverless Application](./Building an Image Editing serverless Application.df)
+Participate in AIforBharat Hackathon conducted by AWS. 
+Completed workshop on AI topics during the sessions.
